@@ -1,0 +1,14 @@
+{
+  "name": "easy-auto-attach",
+  "version": "1.0.0",
+  "description": "Enables quick and easy debugging for VS Code. Add the line `require ('easy-auto-attach')` to enable.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nick Williams <git@nickawilliams.com>",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "easy-attach": "^1.2.0"
+  }
+}
